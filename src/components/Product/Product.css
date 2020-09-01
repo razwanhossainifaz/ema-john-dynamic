@@ -1,0 +1,33 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 40px;
+}
+.product img{
+    margin: 20px 40px 20px 40px;
+}
+.product h4{
+    font-size: 20px;
+    font-weight: 700;
+}
+.product p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.product h2{
+    font-weight: 400;
+}
+.button{
+    font-size: 20px;
+    background-color: goldenrod;
+    color: white;
+    border: 1px solid gold;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.shopping-cart{
+    color: black;
+    margin-right: 10px;
+}

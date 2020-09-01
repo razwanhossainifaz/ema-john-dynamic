@@ -1,0 +1,11 @@
+.review-container{
+    display: flex;
+}
+.product-cotainer{
+    width: 70%;
+    margin-top: 10px;
+}
+.order-place-img{
+    margin-top: 20px;
+    margin-left: 350px;
+}
